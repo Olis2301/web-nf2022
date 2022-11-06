@@ -1,0 +1,66 @@
+#header {
+    background-color: rgb(150, 13, 230);
+    text-align: center;
+}
+h1{
+    font-weight: bolder;
+    color: #0affad;
+}
+
+p {
+    text-align: justify;
+    width: fit-content;
+}
+
+.gambar{
+    width: 40%;
+  margin: 0 auto;
+    display: block;
+}
+.gambar img {
+    display: inline;
+}
+
+.besar{
+    font-size: xx-large;
+    color: blue;
+    display: inline;
+}
+div > ul > li {
+    text-align: center;
+    display: inline-block
+}
+body {
+    background-color: rgb(243, 240, 235);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.koleksi                                                                                                                                                                .koleksi {
+    width: 40%;
+    display: block;
+    background-color: white;
+}
+.koleksi img {
+    display: inline;
+    width: 45%;
+}
+.burung{
+    text-align: center;
+}
+.promo {
+    margin: auto;
+    width: 50%;
+    background-color: rgb(255, 255, 255);
+    border: solid red;
+    text-align: center;
+    color: rgb(235, 16, 16);
+    display: block;
+}
+#wa {
+    text-align: center;
+    display: inline;
+}
+div > ol > li {
+    text-align: center;
+    display: inline-block
+}
