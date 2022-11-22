@@ -1,0 +1,33 @@
+* { 
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: aqua;
+    padding: 1rem;
+}
+main article{
+    background-color: red;
+    flex: 2;
+}
+main aside{
+    background-color: blue;
+    flex: 1;
+}
+main nav {
+    background-color: yellow;
+    flex: 1;
+}
+footer {
+    background-color:aqua;
+    padding: 1rem;
+}
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+main{
+    display: flex;
+    flex: 1;
+}
