@@ -1,0 +1,56 @@
+*{
+    font-family: cursive;
+    color: white;
+}
+body{
+    background-color: rgb(252, 227, 0);
+
+}
+h3{
+    text-align: center;
+    padding: 1rem 1.5rem;
+}
+
+
+.main{
+    height: 450px;
+    display: flex;
+}
+
+.header,.footer{
+    background-color: rgb(86, 1, 165);
+    height: 100px;
+    margin: 1em;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+
+}
+
+.aside{
+    background-color: rgb(218, 0, 0);
+    width: 20%;
+    margin: 1em;
+}
+
+.article{
+    background-color: rgba(4, 103, 160, 0.918);
+    width: 80%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 1em;
+}
+
+.bingkai img{
+    width: 200px;
+    margin: 1em;
+}
+.bingkai{
+    display: flex;
+    justify-content: center;
+}
+
