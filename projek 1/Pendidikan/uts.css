@@ -1,0 +1,50 @@
+.logo {
+    border-radius: 50%;
+    border: 2px solid #000;
+    min-height: 50%;
+    min-width: 50%;
+    margin-top: 10px;
+    height: 150px;
+    width: 100px;
+}
+.bg {
+    background-color: black;
+}
+
+.baris {
+    margin: auto;
+}
+sub {
+    margin-left: auto;
+    display: inline;
+}
+
+.promosi {
+    margin: auto;
+    text-align :center;
+    background-color: rgb(69, 70, 55);
+    color: rgb(239, 255, 15);
+    display: block;
+    float: none;
+}
+ .t {
+    text-align: center;
+ }
+
+ .ab {
+    text-align: left;
+    color: white;
+    display: block;
+    float: left;
+    margin: auto;
+}
+.kiri {
+ margin: auto;
+    float: none;
+    
+}
+.j {
+    text-align: justify;
+    margin: auto;
+    padding: 1px;
+}
